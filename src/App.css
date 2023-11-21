@@ -17,6 +17,14 @@ background: linear-gradient(171deg, rgba(72,200,248,1) 0%, rgba(61,51,146,1) 100
 .completed {
   color: #427D9D;
   text-decoration: line-through;
+  transition: 500ms ease-in-out;
+  transition-delay: 100ms;
+  }
+
+  .incompleted
+  {
+  transition: 500ms ease-in-out;
+  transition-delay: 100ms;
   }
 
   
